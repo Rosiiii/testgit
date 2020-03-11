@@ -30,3 +30,8 @@ for channel in lightchannel:
 
 # SPI schließen
 spi.close()
+
+
+
+
+#IS DAS COOOOOOL :) 
