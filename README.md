@@ -3,4 +3,4 @@ a test git to fork
 
 
 # usefull ?
-not really :)
+not really :) maybe not... :-/
