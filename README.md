@@ -2,6 +2,5 @@
 a test git to fork
 
 
-# usefull ?
-yes, really :)
-
+# useful ?
+yes, really :) --> only useful when the spelling is correct :D
