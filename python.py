@@ -25,7 +25,7 @@ for channel in lightchannel:
    adc = spi.xfer2([1, (8 + channel) << 4, 0])
    value = ((adc[1] & 3) << 8) + adc[2]
    #volt = round(value/maxvalue*3.3,4)
-   #print(round(abs(maxvalue-value)/maxvalue*100,1))
+   print(round(abs(maxvalue-value)/maxvalue*100,1)) # for debug
    speichern(str(channel),round(abs(maxvalue-value)/maxvalue*100,1))
 
 # SPI schließen
