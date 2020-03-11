@@ -3,5 +3,7 @@ a test git to fork
 
 
 # usefull ?
-yes, really :)
+not really :) maybe not... :-/
+
+yes, really :) --> only useful when the spelling is correct :D
 
