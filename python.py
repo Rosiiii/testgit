@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # file: getDataLight.py | Command-Line Beispiel: ./getDataLight.py
+#IS DAS COOOOOOL :) 
 from spidev import SpiDev
 import time
 import os
@@ -30,8 +31,3 @@ for channel in lightchannel:
 
 # SPI schließen
 spi.close()
-
-
-
-
-#IS DAS COOOOOOL :) 
